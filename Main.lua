@@ -1,8 +1,6 @@
-[[
-  It's not my source.
-  But join my discord server: discord.gg/HYUz68MN4g
-  Contact discord: elian.riu (Elian)
-]]
+--  It's not my source.
+--  But join my discord server: discord.gg/HYUz68MN4g
+--  Contact discord: elian.riu (Elian)
 
 local a = Instance.new("UIStroke")
 local a = Instance.new("UICorner")
