@@ -114,7 +114,7 @@ e.Draggable = true
 e.Active = true
 e.Selectable = true
 e.BackgroundTransparency = .1
-e.Image = "rbxassetid://".._G.Logo
+e.Image = _G.Logo
 e.Visible = false
 local a = Instance.new("UICorner")
 a.Name = "MCNR"
@@ -622,7 +622,7 @@ function a:Window(namehut, f, f, f)
             o.BackgroundTransparency = 1.000
             o.Position = UDim2.new(0, 5, 0, 8)
             o.Size = UDim2.new(0, 30, 0, 30)
-            o.Image = "rbxassetid://".._G.Logo
+            o.Image = _G.Logo
             j.Parent = h
             j.BackgroundColor3 = Color3.fromRGB(150, 150, 150)
             j.BackgroundTransparency = 1.000
@@ -715,7 +715,7 @@ function a:Window(namehut, f, f, f)
             f.BackgroundTransparency = 1.000
             f.Position = UDim2.new(0, 5, 0, 3)
             f.Size = UDim2.new(0, 30, 0, 30)
-            f.Image = "rbxassetid://".._G.Logo
+            f.Image = _G.Logo
             k.Name = "DropTitle"
             k.Parent = g
             k.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
@@ -930,7 +930,7 @@ function a:Window(namehut, f, f, f)
             l.BorderSizePixel = 0
             l.Position = UDim2.new(0, 7.5, 0, 7.5)
             l.Size = UDim2.new(0, 30, 0, 30)
-            l.Image = "rbxassetid://".._G.Logo
+            l.Image = _G.Logo
             m.Parent = j
             m.BackgroundColor3 = Color3.fromRGB(150, 150, 150)
             m.BackgroundTransparency = 1.000
@@ -1328,7 +1328,7 @@ function a:Window(namehut, f, f, f)
             k.BorderSizePixel = 0
             k.Position = UDim2.new(0, 7.5, 0, 7.5)
             k.Size = UDim2.new(0, 30, 0, 30)
-            k.Image = "rbxassetid://".._G.Logo
+            k.Image = _G.Logo
             l.Parent = i
             l.BackgroundColor3 = Color3.fromRGB(150, 150, 150)
             l.BackgroundTransparency = 1.000
